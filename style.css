@@ -1,0 +1,21 @@
+body{
+    background: linear-gradient(plum,pink) ;
+    font-style: oblique;
+    font-family: 'Darumadrop One', cursive;
+}
+
+.heading_div{
+    background-color: antiquewhite;
+    font-family: 'Lobster', cursive;
+}
+.footer{
+    background-color: blanchedalmond;
+    bottom: 0;
+    width: 100%;
+    font-size: 17px;
+    position: fixed;
+    line-height: 3;
+    text-shadow: 5px 5px 5px rgb(229, 99, 229);
+
+
+}
